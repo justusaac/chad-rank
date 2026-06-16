@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+## Chad rankings generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With this app you can create a ranking list that is styled like the Chad Rankings at [https://officialchadrankings.com/Home](https://officialchadrankings.com/Home)
+
+It supports the ability to download the list as a PNG image.
 
 ## Available Scripts
 
